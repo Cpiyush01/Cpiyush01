@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Cpiyush01
-- 👀 I’m interested in  OOP Programming
-- 🌱 I’m currently learning learning in a four year degree program majoring in technology B.Tech
-- 💞️ I’m looking to collaborate on projects which can probably help me shape my career and teach me somthing. 
-- 📫Reach out to me on instagram @piyush_raaz13
-
-
+👋 Hi, I’m Piyush Choudhary (@Cpiyush01)
+🎓 I’m currently pursuing a B.Tech in Computer Science & Engineering
+💻 I’m interested in Java, Spring Boot, Full-Stack Development, OOP, and DSA
+🌱 I’m currently exploring AI/ML, Cloud Technologies, Microservices, and System Design
+🚀 I enjoy building real-world applications and AI-powered solutions
+🤝 I’m open to collaborating on open-source and innovative projects that help me learn, grow, and solve real-world problems
+📫 Connect with me on Instagram: @piyush_raaz13
